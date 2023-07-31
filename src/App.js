@@ -142,8 +142,8 @@ function App() {
           </p>
           <p>
             App made by 
-            <a className="contribution-link" href="https://yalandr.github.io/portfolio/" target="_blank" rel="noreferrer">
-              Yalandr
+            <a className="contribution-link" href="https://SuperStar264.github.io/portfolio/" target="_blank" rel="noreferrer">
+              SuperStar264
             </a>
           </p>
         </div>
